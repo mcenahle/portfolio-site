@@ -59,3 +59,14 @@
     --vp-sidebar-bg-color: #161618;                     /* 侧边栏背景 */
     --vp-code-block-bg: #202127;                        /* 代码块背景 */
 }
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-Regular';
+    src: url('https://www.mcenahle.org.cn/fonts/NotoSerifCJKsc-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "NotoSerifCJKsc-Regular", serif;
+}

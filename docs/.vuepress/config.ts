@@ -34,7 +34,7 @@ export default defineUserConfig({
         /* 文档仓库配置，用于 editLink */
         docsRepo: 'mcenahle/portfolio-site',
         docsDir: 'docs',
-        docsBranch: '',
+        docsBranch: 'main',
 
         /* 页内信息 */
         editLink: true,
