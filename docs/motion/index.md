@@ -8,7 +8,7 @@ permalink: /motion/
 
 从2024年的暑假开始，到现在熟练使用 PR，一路前行。
 
-~~pr.mcenahle.org.cn~~从2024年12月创立以来，历经3次改变（目前是第4次），最终成为展示剪辑完成视频的~~站点~~一个部分。
+~~pr.mcenahle.org.cn~~从2024年12月创立以来，历经3次改变（目前是第4次），最终成为~~展示剪辑完成视频~~作品集网站的~~站点~~一个部分。
 
 剪辑软件：[Adobe Premiere Pro（又称：PR）](https://www.adobe.com/products/premiere.html)；[DaVinci Resolve（又称：达芬奇）](https://www.blackmagicdesign.com/products/davinciresolve)。制作软件：[Adobe After Effects（又称：AE）](https://helpx.adobe.com/cn/after-effects/get-started.html)。之后可能会拓展更多。
 
