@@ -61,12 +61,12 @@
 }
 
 @font-face {
-    font-family: 'NotoSerifCJKsc-Regular';
-    src: url('https://www.mcenahle.org.cn/fonts/NotoSerifCJKsc-Regular.woff2') format('woff2');
+    font-family: 'SourceHanSansCN-Regular';
+    src: url('https://www.mcenahle.org.cn/fonts/SourceHanSansCN-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: "NotoSerifCJKsc-Regular", serif;
+    font-family: "SourceHanSansCN-Regular";
 }
