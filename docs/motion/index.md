@@ -1,10 +1,10 @@
 ---
-title: 关于剪辑的视频
+title: 关于制作的视频
 createTime: 2025/08/01
 permalink: /motion/
 ---
 
-# 关于剪辑的视频
+# 关于制作的视频
 
 从2024年的暑假开始，到现在熟练使用 PR，一路前行。
 
@@ -14,14 +14,16 @@ permalink: /motion/
 
 目前已经有9个视频项目。
 
-|                             视频名称                              |剪辑/制作软件|             发布日期              |      可下载状态      |
-|:-------------------------------------------------------------:|:--:|:-----------------------------:|:---------------:|
-|               [2024年终视频](/motion/2024-end-movie)                |PR| 预览版：2024-12-23、正式版：2024-12-31 |       可下载       |
-|              [挑战通过科目一](/motion/pass-the-subject-1)              |PR|          2025-02-16           |      不可下载       |
-|                [杨逸 - 鹳羽](/motion/guanyu-yangyi)                 |PR| 正式版：2025-03-10、改进：2025-03-18  |      不可下载       |
-|           [2025.6.23 上海游记视频](/motion/2025.6.23-movie)           |PR|          2025-06-23           |       可下载       |
-|          [去月球三部曲 - 完结](/motion/end-to-the-moon-series)          |PR|          2025-07-10           |       可下载       |
-|            [初夏的记忆与天堂](/motion/earlysummer-paradise)             |达芬奇|          2025-07-18           |       可下载       |
-|           [城南花已开 - 音频波形动画](/motion/chengnanhuayikai)            |AE|  2025-08-26、制作日期：2025-06-17   |       可下载       |
-|   [2025.11.18 豫园 Vlog](/motion/2025.11.18-yuyuan-garden-vlog)   |PR|          2025-11-18           |       可下载       |
-| [猫 meme](/motion/cat-meme)  |PR|          2026-04-10           | 已完成，暂不公开无水印成品下载 |
+::: table title="视频项目统计" align="center"
+|                             视频名称                              |剪辑/制作软件|             ::uiw:date::发布日期              |
+|:-------------------------------------------------------------:|:--:|:-----------------------------:|
+|               [2024年终视频](/motion/2024-end-movie)                |::streamline-logos:adobe-premiere-pro-logo-block::PR| 预览版：2024-12-23、正式版：2024-12-31 |
+|              [挑战通过科目一](/motion/pass-the-subject-1)              |::streamline-logos:adobe-premiere-pro-logo-block::PR|          2025-02-16           |
+|                [杨逸 - 鹳羽](/motion/guanyu-yangyi)                 |::streamline-logos:adobe-premiere-pro-logo-block::PR| 正式版：2025-03-10、改进：2025-03-18  |
+|           [2025.6.23 上海游记视频](/motion/2025.6.23-movie)           |::streamline-logos:adobe-premiere-pro-logo-block::PR|          2025-06-23           |
+|          [去月球三部曲 - 完结](/motion/end-to-the-moon-series)          |::streamline-logos:adobe-premiere-pro-logo-block::PR|          2025-07-10           |
+|            [初夏的记忆与天堂](/motion/earlysummer-paradise)             |::simple-icons:davinciresolve::达芬奇|          2025-07-18           |
+|           [城南花已开 - 音频波形动画](/motion/chengnanhuayikai)            |::streamline-logos:adobe-after-effects-logo-block::AE|  2025-08-26、制作日期：2025-06-17   |
+|   [2025.11.18 豫园 Vlog](/motion/2025.11.18-yuyuan-garden-vlog)   |::streamline-logos:adobe-premiere-pro-logo-block::PR|          2025-11-18           |
+| [猫 meme](/motion/cat-meme)  |::streamline-logos:adobe-premiere-pro-logo-block::PR|          2026-04-10           |
+:::

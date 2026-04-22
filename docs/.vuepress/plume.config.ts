@@ -66,7 +66,7 @@ export default defineThemeConfig({
         {
             text: '项目展示',
             items: [
-                {text: '视频剪辑', link: '/motion/'},
+                {text: '视频制作', link: '/motion/'},
             ]
         },
         {text: '博客', link: '/blog/'},
@@ -77,9 +77,9 @@ export default defineThemeConfig({
     sidebar: {
         '/motion/': [
             {
-                text: '视频剪辑',
+                text: '视频制作',
                 items: [
-                    {text: '视频剪辑 - 首页', link: '/motion/'},
+                    {text: '视频制作 - 首页', link: '/motion/'},
                 ]
             },
             /* {
