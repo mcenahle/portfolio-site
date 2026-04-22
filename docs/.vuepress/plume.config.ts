@@ -66,7 +66,7 @@ export default defineThemeConfig({
         {
             text: '项目展示',
             items: [
-                {text: '视频剪辑', link: '/videos/'},
+                {text: '视频剪辑', link: '/motion/'},
             ]
         },
         {text: '博客', link: '/blog/'},
@@ -75,45 +75,45 @@ export default defineThemeConfig({
     ],
 
     sidebar: {
-        '/videos/': [
+        '/motion/': [
             {
                 text: '视频剪辑',
                 items: [
-                    {text: '视频剪辑 - 首页', link: '/videos/'},
+                    {text: '视频剪辑 - 首页', link: '/motion/'},
                 ]
             },
             /* {
                 text: '正在计划的视频',
                 collapsed: false,
                 items: [
-                    { text: '猫 meme', link: '/videos/cat-meme' },
+                    { text: '猫 meme', link: '/motion/cat-meme' },
                 ]
             }, */
             {
                 text: '视频展示（制作软件：AE）',
                 // collapsed: false,
                 items: [
-                    { text: '城南花已开 - 音频波形动画', link: '/videos/chengnanhuayikai/' }
+                    { text: '城南花已开 - 音频波形动画', link: '/motion/chengnanhuayikai/' }
                 ]
             },
             {
                 text: '视频展示（剪辑软件：达芬奇）',
                 // collapsed: false,
                 items: [
-                    { text: '初夏的记忆与天堂', link: '/videos/earlysummer-paradise/' }
+                    { text: '初夏的记忆与天堂', link: '/motion/earlysummer-paradise/' }
                 ]
             },
             {
                 text: '视频展示（剪辑软件：PR）',
                 // collapsed: false,
                 items: [
-                    { text: '猫 meme', link: '/videos/cat-meme/' },
-                    { text: '2025.11.18 豫园 Vlog', link: '/videos/2025.11.18-yuyuan-garden-vlog/' },
-                    { text: '去月球三部曲 - 完结', link: '/videos/end-to-the-moon-series/' },
-                    { text: '2025.6.23 上海游记视频', link: '/videos/2025.6.23-movie/' },
-                    { text: '杨逸 - 鹳羽', link: '/videos/guanyu-yangyi/' },
-                    { text: '挑战通过科目一', link: '/videos/pass-the-subject-1/' },
-                    { text: '2024年终视频', link: '/videos/2024-end-movie/' }
+                    { text: '猫 meme', link: '/motion/cat-meme/' },
+                    { text: '2025.11.18 豫园 Vlog', link: '/motion/2025.11.18-yuyuan-garden-vlog/' },
+                    { text: '去月球三部曲 - 完结', link: '/motion/end-to-the-moon-series/' },
+                    { text: '2025.6.23 上海游记视频', link: '/motion/2025.6.23-movie/' },
+                    { text: '杨逸 - 鹳羽', link: '/motion/guanyu-yangyi/' },
+                    { text: '挑战通过科目一', link: '/motion/pass-the-subject-1/' },
+                    { text: '2024年终视频', link: '/motion/2024-end-movie/' }
                 ]
             }
         ],

@@ -1,7 +1,7 @@
 ---
 title: 2024年终视频
 createTime: 2025/08/01
-permalink: /videos/2024-end-movie/
+permalink: /motion/2024-end-movie/
 ---
 
 # 2024年终视频

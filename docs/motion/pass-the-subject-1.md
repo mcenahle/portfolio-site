@@ -1,7 +1,7 @@
 ---
 title: 挑战通过科目一
 createTime: 2025/08/01
-permalink: /videos/pass-the-subject-1/
+permalink: /motion/pass-the-subject-1/
 ---
 
 # 挑战通过科目一

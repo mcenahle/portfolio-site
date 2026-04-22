@@ -11,7 +11,7 @@ export default defineNavbarConfig([
     {
         text: '项目展示',
         items: [
-            {text: '视频剪辑', link: '/videos/'},
+            {text: '视频剪辑', link: '/motion/'},
         ]
     },
     {text: '博客', link: '/blog/'},

@@ -1,7 +1,7 @@
 ---
 title: 猫 meme
 createTime: 2026/04/08
-permalink: /videos/cat-meme/
+permalink: /motion/cat-meme/
 ---
 
 # 猫 meme

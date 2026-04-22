@@ -1,7 +1,7 @@
 ---
 title: 杨逸 - 鹳羽
 createTime: 2025/08/01
-permalink: /videos/guanyu-yangyi/
+permalink: /motion/guanyu-yangyi/
 ---
 
 # 杨逸 - 鹳羽

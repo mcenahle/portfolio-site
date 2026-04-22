@@ -1,7 +1,7 @@
 ---
 title: 城南花已开 - 音频波形动画
 createTime: 2025/08/26
-permalink: /videos/chengnanhuayikai/
+permalink: /motion/chengnanhuayikai/
 ---
 
 # 城南花已开 - 音频波形动画

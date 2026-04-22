@@ -1,7 +1,7 @@
 ---
 title: 去月球三部曲 - 完结
 createTime: 2025/08/01
-permalink: /videos/end-to-the-moon-series/
+permalink: /motion/end-to-the-moon-series/
 ---
 
 # 去月球三部曲 - 完结

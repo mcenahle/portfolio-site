@@ -1,7 +1,7 @@
 ---
 title: 初夏的记忆与天堂
 createTime: 2025/08/01
-permalink: /videos/earlysummer-paradise/
+permalink: /motion/earlysummer-paradise/
 ---
 
 # 初夏的记忆与天堂
