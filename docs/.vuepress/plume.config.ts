@@ -110,10 +110,10 @@ export default defineThemeConfig({
                     { text: '猫 meme', link: '/videos/cat-meme/' },
                     { text: '2025.11.18 豫园 Vlog', link: '/videos/2025.11.18-yuyuan-garden-vlog/' },
                     { text: '去月球三部曲 - 完结', link: '/videos/end-to-the-moon-series/' },
-                    { text: '2025.6.23 上海游记影片', link: '/videos/2025.6.23-movie/' },
+                    { text: '2025.6.23 上海游记视频', link: '/videos/2025.6.23-movie/' },
                     { text: '杨逸 - 鹳羽', link: '/videos/guanyu-yangyi/' },
                     { text: '挑战通过科目一', link: '/videos/pass-the-subject-1/' },
-                    { text: '2024年终影片', link: '/videos/2024-end-movie/' }
+                    { text: '2024年终视频', link: '/videos/2024-end-movie/' }
                 ]
             }
         ],
