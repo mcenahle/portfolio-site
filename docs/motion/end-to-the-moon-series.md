@@ -27,4 +27,5 @@ permalink: /motion/end-to-the-moon-series/
 
 ## 下载
 
-[下载链接（123网盘）](https://www.123684.com/s/cpBkjv-QYKvd)。提取码：gCVv。
+- [下载链接（123网盘）](https://www.123684.com/s/cpBkjv-QYKvd)。提取码：gCVv。
+- [在 file.mcenahle.cn 上在线查看](https://file.mcenahle.cn/src/motion/%E5%8E%BB%E6%9C%88%E7%90%83%E4%B8%89%E9%83%A8%E6%9B%B2%20-%20%E5%AE%8C%E7%BB%93.mp4)
