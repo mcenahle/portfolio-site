@@ -56,8 +56,8 @@ export default defineThemeConfig({
         avatar: '/icon.png',
         name: 'portfolio.mcenahle.cn',
         description: '',
-        // circle: true,
-        // location: '',
+        circle: true,
+        location: '上海市崇明区',
         // organization: '',
     },
 
