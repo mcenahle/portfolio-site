@@ -119,12 +119,12 @@ export default defineThemeConfig({
                 ]
             }
         ],
-        '/ae/': [
+        '/poster-school/': [
             {
-                text: 'After Effects 相关',
+                text: '课程海报',
                 items: [
-                    {text: 'After Effects 文档', link: '/ae/'},
-                    {text: 'AE 属性快捷键', link: '/ae/properties-shoutcut-key/'},
+                    {text: '课程海报', link: '/poster-school/'},
+                    {text: '12生肖', link: '/poster-school/12-chinese-zodiac/'},
                 ]
             }
         ],

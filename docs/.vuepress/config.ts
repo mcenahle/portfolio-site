@@ -96,6 +96,7 @@ export default defineUserConfig({
             //   caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
             //   plot: true,         // 启用隐秘文本语法 !!xxxx!!
             table: true,
+            timeline: true,
             bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
             //   youtube: true,      // 启用嵌入 youtube视频 语法 @[youtube](video_id)
             //   artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)
