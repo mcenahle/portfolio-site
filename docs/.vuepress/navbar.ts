@@ -4,6 +4,8 @@
  * Navbar 配置文件，它在 `.vuepress/plume.config.ts` 中被导入。
  */
 
+/* 前往 plume.config.ts 以设置。本配置文件被废弃。
+
 import {defineNavbarConfig} from 'vuepress-theme-plume'
 
 export default defineNavbarConfig([
@@ -18,3 +20,5 @@ export default defineNavbarConfig([
     {text: '标签', link: '/blog/tags/'},
     {text: '归档', link: '/blog/archives/'},
 ])
+
+*/

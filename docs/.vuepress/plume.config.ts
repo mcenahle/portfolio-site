@@ -67,6 +67,8 @@ export default defineThemeConfig({
             text: '项目展示',
             items: [
                 {text: '视频制作', link: '/motion/'},
+                {text: '课程海报', link: '/poster-school/'},
+                {text: '个人海报', link: '/poster-personal/'},
             ]
         },
         {text: '博客', link: '/blog/'},
