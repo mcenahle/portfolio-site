@@ -35,12 +35,12 @@ permalink: /poster-school/12-chinese-zodiac/
 
 首先确定创作的图片的风格，借助小红书搜索图片，并与指导老师沟通确认，使用类似这种的图片以生成视频。
 
-![图片1](/poster-school/12-chinese-zodiac/examples/图片1.jpg)
-![图片2](/poster-school/12-chinese-zodiac/examples/图片2.jpg)
-![图片3](/poster-school/12-chinese-zodiac/examples/图片3.jpg)
-![图片4](/poster-school/12-chinese-zodiac/examples/图片4.jpg)
-![图片5](/poster-school/12-chinese-zodiac/examples/图片5.jpg)
-![图片6](/poster-school/12-chinese-zodiac/examples/图片6.jpg)
+![图片1](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/examples/图片1.jpg)
+![图片2](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/examples/图片2.jpg)
+![图片3](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/examples/图片3.jpg)
+![图片4](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/examples/图片4.jpg)
+![图片5](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/examples/图片5.jpg)
+![图片6](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/examples/图片6.jpg)
 
 然后思考动物结合的思路，最终得到下表：
 
@@ -87,13 +87,13 @@ permalink: /poster-school/12-chinese-zodiac/
 
 ### （六）最终生成图片
 
-图中也添加了我的海报文字。如果各位喜欢，也可 [下载](/poster-school/12-chinese-zodiac/export/export.ai) 我的 Illustrator 工程文件。
+图中也添加了我的海报文字。如果各位喜欢，也可 [下载](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export.ai) 我的 Illustrator 工程文件。
 
 工程文件的许可证依旧采用 [本文许可证](#doc-copyright)。
 
-![图片1](/poster-school/12-chinese-zodiac/export/export_1.jpg)
-![图片2](/poster-school/12-chinese-zodiac/export/export_2.jpg)
-![图片3](/poster-school/12-chinese-zodiac/export/export_3.jpg)
-![图片4](/poster-school/12-chinese-zodiac/export/export_4.jpg)
-![图片5](/poster-school/12-chinese-zodiac/export/export_5.jpg)
-![图片6](/poster-school/12-chinese-zodiac/export/export_6.jpg)
+![图片1](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export_1.jpg)
+![图片2](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export_2.jpg)
+![图片3](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export_3.jpg)
+![图片4](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export_4.jpg)
+![图片5](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export_5.jpg)
+![图片6](https://s.mn.edu.kg/portfolio/poster-school/12-chinese-zodiac/export/export_6.jpg)
