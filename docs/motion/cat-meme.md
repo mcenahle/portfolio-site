@@ -18,4 +18,4 @@ permalink: /motion/cat-meme/
 
 @[bilibili](BV1LeQwBbERR)
 
-无水印视频将于即日起3个月内公开（即最晚为：2026年7月10日）。
+无水印视频下载：在 Cloudflare R2 对象存储中 [查看](https://s.mn.edu.kg/portfolio/motion/cat-meme.mp4)。

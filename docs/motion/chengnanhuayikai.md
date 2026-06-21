@@ -15,3 +15,5 @@ permalink: /motion/chengnanhuayikai/
 ## 下载
 
 [下载链接（123网盘）](https://www.123684.com/s/cpBkjv-NzKvd)。提取码：v3fJ。
+
+或者，在 Cloudflare R2 对象存储中 [查看](https://s.mn.edu.kg/portfolio/motion/chengnanhuayikai.mp4)。
